@@ -1,0 +1,23 @@
+{
+  "name": "p9-develop-a-node-static-site",
+  "version": "1.0.0",
+  "description": "treehouse project 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BellaBradbury/Develop-A-Node-Static-Site-With-Express-FEWD-9.git"
+  },
+  "author": "Bella Bradbury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BellaBradbury/Develop-A-Node-Static-Site-With-Express-FEWD-9/issues"
+  },
+  "homepage": "https://github.com/BellaBradbury/Develop-A-Node-Static-Site-With-Express-FEWD-9#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
