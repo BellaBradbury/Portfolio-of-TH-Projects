@@ -7,15 +7,14 @@ app.use( '/static', express.static('public') );
 
 app.get( '/', (req, res) => {
   res.locals.projects = data.projects;
-  res.render( 'index');
+  res.render('index');
 });
 app.get( '/about', (req, res) => {
   res.render('about');
 });
-app.get( '/project/:id', (req, res) => {
-  res.locals.projects = data.projects;
+app.get( '/projects/:id', (req, res) => {
   const index = req.params.id;
-  res.render( 'project', {project: data.projects[index]} );
+  res.render( 'project', {projects: data.project[index]} );
 });
 
 
