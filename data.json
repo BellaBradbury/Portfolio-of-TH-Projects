@@ -9,7 +9,7 @@
       "github_link": "https://github.com/BellaBradbury/Create-A-Profile-Page-FEWD-1.git",
       "image_urls": {
         "main": ["/static/imgs/P1-sq.png"],
-        "secondary": ["/static/imgs/P1-lg.png"],
+        "secondary": ["/static/imgs/P1-lg.png"]
       }
     },
     {
@@ -21,7 +21,7 @@
       "github_link": "https://github.com/BellaBradbury/Mobile-First-Responsive-Layout-FEWD-2.git",
       "image_urls": {
         "main": ["/static/imgs/P2-sq.png"],
-        "secondary": ["/static/imgs/P2-lg.png"],
+        "secondary": ["/static/imgs/P2-lg.png"]
       }
     },
     {
@@ -33,7 +33,7 @@
       "github_link": "https://github.com/BellaBradbury/Create-A-Responsive-Registration-Form-FEWD-3.git",
       "image_urls": {
         "main": ["/static/imgs/P3-sq.png"],
-        "secondary": ["/static/imgs/P3-lg.png"],
+        "secondary": ["/static/imgs/P3-lg.png"]
       }
     },
     {
@@ -45,7 +45,7 @@
       "github_link": "https://github.com/BellaBradbury/Create-A-Random-Quote-Generator-FEWD-4.git",
       "image_urls": {
         "main": ["/static/imgs/P4-sq.png"],
-        "secondary": ["/static/imgs/P4-lg.png"],
+        "secondary": ["/static/imgs/P4-lg.png"]
       }
     },
     {
@@ -57,7 +57,7 @@
       "github_link": "https://github.com/BellaBradbury/Develop-A-Word-Guessing-Game-FEWD-5.git",
       "image_urls": {
         "main": ["/static/imgs/P5-sq.png"],
-        "secondary": ["/static/imgs/P5-lg.png"],
+        "secondary": ["/static/imgs/P5-lg.png"]
       }
     },
     {
@@ -69,7 +69,7 @@
       "github_link": "https://github.com/BellaBradbury/Data-Pagination-And-Filtering-FEWD-6.git",
       "image_urls": {
         "main": ["/static/imgs/P6-sq.png"],
-        "secondary": ["/static/imgs/P6-lg.png"],
+        "secondary": ["/static/imgs/P6-lg.png"]
       }
     },
     {
@@ -81,7 +81,7 @@
       "github_link": "https://github.com/BellaBradbury/Program-An-Interactive-Registration-Form-FEWD-7.git",
       "image_urls": {
         "main": ["/static/imgs/P7-sq.png"],
-        "secondary": ["/static/imgs/P7-lg.png"],
+        "secondary": ["/static/imgs/P7-lg.png"]
       }
     },
     {
@@ -93,7 +93,7 @@
       "github_link": "https://github.com/BellaBradbury/Connect-To-And-Use-A-Public-API-FEWD-8.git",
       "image_urls": {
         "main": ["/static/imgs/P8-sq.png"],
-        "secondary": ["/static/imgs/P8-lg.png"],
+        "secondary": ["/static/imgs/P8-lg.png"]
       }
     }
   ]
