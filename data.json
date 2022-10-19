@@ -5,8 +5,8 @@
       "project_name": "Profile Page",
       "description": "A customized web page to serve as a personal profile site.",
       "technologies": ["HTML", "CSS"],
-      "live_link": "https://bellabradbury.github.io/Create-A-Profile-Page-FEWD-1/",
-      "github_link": "https://github.com/BellaBradbury/Create-A-Profile-Page-FEWD-1.git",
+      "live_link": "https://bellabradbury.github.io/Create-A-Profile-Page-WD-1/",
+      "github_link": "https://github.com/BellaBradbury/Create-A-Profile-Page-WD-1.git",
       "image_urls": {
         "main": ["/static/imgs/P1-sq.png"],
         "secondary": ["/static/imgs/P1-lg.png"]
@@ -17,8 +17,8 @@
       "project_name": "Responsive Layout",
       "description": "A responsive, mobile-first layout that also accommodates medium and large screens.",
       "technologies": ["HTML", "CSS"],
-      "live_link": "https://bellabradbury.github.io/Mobile-First-Responsive-Layout-FEWD-2/",
-      "github_link": "https://github.com/BellaBradbury/Mobile-First-Responsive-Layout-FEWD-2.git",
+      "live_link": "https://bellabradbury.github.io/Mobile-First-Responsive-Layout-WD-2/",
+      "github_link": "https://github.com/BellaBradbury/Mobile-First-Responsive-Layout-WD-2.git",
       "image_urls": {
         "main": ["/static/imgs/P2-sq.png"],
         "secondary": ["/static/imgs/P2-lg.png"]
@@ -29,8 +29,8 @@
       "project_name": "Responsive Registration Form",
       "description": "A responsive, mobile-friendly registration form.",
       "technologies": ["HTML", "CSS"],
-      "live_link": "https://bellabradbury.github.io/Create-A-Responsive-Registration-Form-FEWD-3/",
-      "github_link": "https://github.com/BellaBradbury/Create-A-Responsive-Registration-Form-FEWD-3.git",
+      "live_link": "https://bellabradbury.github.io/Create-A-Responsive-Registration-Form-WD-3/",
+      "github_link": "https://github.com/BellaBradbury/Create-A-Responsive-Registration-Form-WD-3.git",
       "image_urls": {
         "main": ["/static/imgs/P3-sq.png"],
         "secondary": ["/static/imgs/P3-lg.png"]
@@ -41,8 +41,8 @@
       "project_name": "Random Quote Generator",
       "description": "An app that displays a random quote at the click of a button.",
       "technologies": ["JavaScript"],
-      "live_link": "https://bellabradbury.github.io/Create-A-Random-Quote-Generator-FEWD-4/",
-      "github_link": "https://github.com/BellaBradbury/Create-A-Random-Quote-Generator-FEWD-4.git",
+      "live_link": "https://bellabradbury.github.io/Create-A-Random-Quote-Generator-WD-4/",
+      "github_link": "https://github.com/BellaBradbury/Create-A-Random-Quote-Generator-WD-4.git",
       "image_urls": {
         "main": ["/static/imgs/P4-sq.png"],
         "secondary": ["/static/imgs/P4-lg.png"]
@@ -53,8 +53,8 @@
       "project_name": "Word Guessing Game",
       "description": "A browser version of Wheel of Success.",
       "technologies": ["JavaScript"],
-      "live_link": "https://bellabradbury.github.io/Develop-A-Word-Guessing-Game-FEWD-5/",
-      "github_link": "https://github.com/BellaBradbury/Develop-A-Word-Guessing-Game-FEWD-5.git",
+      "live_link": "https://bellabradbury.github.io/Develop-A-Word-Guessing-Game-WD-5/",
+      "github_link": "https://github.com/BellaBradbury/Develop-A-Word-Guessing-Game-WD-5.git",
       "image_urls": {
         "main": ["/static/imgs/P5-sq.png"],
         "secondary": ["/static/imgs/P5-lg.png"]
@@ -65,8 +65,8 @@
       "project_name": "Student Directory",
       "description": "A site containing student information, displayed via pagination and filtering.",
       "technologies": ["JavaScript"],
-      "live_link": "https://bellabradbury.github.io/Data-Pagination-And-Filtering-FEWD-6/",
-      "github_link": "https://github.com/BellaBradbury/Data-Pagination-And-Filtering-FEWD-6.git",
+      "live_link": "https://bellabradbury.github.io/Data-Pagination-And-Filtering-WD-6/",
+      "github_link": "https://github.com/BellaBradbury/Data-Pagination-And-Filtering-WD-6.git",
       "image_urls": {
         "main": ["/static/imgs/P6-sq.png"],
         "secondary": ["/static/imgs/P6-lg.png"]
@@ -77,8 +77,8 @@
       "project_name": "Interactive Registration Form",
       "description": "An interactive registration form for a fictional Full Stack conference.",
       "technologies": ["JavaScript"],
-      "live_link": "https://bellabradbury.github.io/Program-An-Interactive-Registration-Form-FEWD-7/",
-      "github_link": "https://github.com/BellaBradbury/Program-An-Interactive-Registration-Form-FEWD-7.git",
+      "live_link": "https://bellabradbury.github.io/Program-An-Interactive-Registration-Form-WD-7/",
+      "github_link": "https://github.com/BellaBradbury/Program-An-Interactive-Registration-Form-WD-7.git",
       "image_urls": {
         "main": ["/static/imgs/P7-sq.png"],
         "secondary": ["/static/imgs/P7-lg.png"]
@@ -89,8 +89,8 @@
       "project_name": "Employee Directory",
       "description": "A page containing employee information, with modal and filtering capabilities.",
       "technologies": ["CSS", "JSON", "JavaScript"],
-      "live_link": "https://bellabradbury.github.io/Connect-To-And-Use-A-Public-API-FEWD-8/",
-      "github_link": "https://github.com/BellaBradbury/Connect-To-And-Use-A-Public-API-FEWD-8.git",
+      "live_link": "https://bellabradbury.github.io/Connect-To-And-Use-A-Public-API-WD-8/",
+      "github_link": "https://github.com/BellaBradbury/Connect-To-And-Use-A-Public-API-WD-8.git",
       "image_urls": {
         "main": ["/static/imgs/P8-sq.png"],
         "secondary": ["/static/imgs/P8-lg.png"]
