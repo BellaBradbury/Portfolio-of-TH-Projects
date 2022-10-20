@@ -21,6 +21,6 @@ block content
 
       each project in projects
         .cell
-          a(href='project/#{project.id}')
-            img.thumbnail(src="#{project.image_urls.main}", alt='Square picture showing part of the layout for #{project.project_name} site.')
+          a(href=`project/${project.id}`)
+            img.thumbnail(src=`${project.image_urls.main}`, alt=`Square picture showing part of the layout for ${project.project_name} site.`)
             h5 #{project.project_name}
