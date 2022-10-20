@@ -6,7 +6,7 @@ block content
 
     h1 Hello World!
 
-    p Check out my projects completed while earning my Web Development TechDegree with Team Treehouse. I began my education in early 2022, though I've always been interested in Web Development. All projects I've submitted have passed with the grade of 'Exceeds Expectations' meaning I've gone above and beyond the learning material for each unit.
+    p Check out my projects completed while earning my Web Development TechDegree with Team Treehouse. All projects I've submitted have passed with the grade of 'Exceeds Expectations' meaning I've successfully gone above and beyond the learning material and into independent study for each unit.
 
 
   article.portfolio-project-thumbs
@@ -19,7 +19,8 @@ block content
           //- The text 'Thumbnail' interpolated with the project title for the img's alt attribute
           //- The project title for the h5 element's text
 
+      each project in projects
         .cell
-          a(href='#')
-            img.thumbnail(src='https://placehold.it/550x550', alt='')
-            h5 My Site
+          a(href='project/#{project.id}')
+            img.thumbnail(src="#{project.image_urls.main}", alt='Square picture showing part of the layout for #{project.project_name} site.')
+            h5 #{project.project_name}
