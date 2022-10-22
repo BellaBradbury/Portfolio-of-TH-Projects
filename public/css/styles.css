@@ -1,4 +1,4 @@
-
+/* font-family: 'Courier Prime', monospace; */
 /*
   Main styles
 */
@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,p{
 }
 
 h5{
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Courier Prime', monospace;
   letter-spacing: 2.5px;
   -webkit-text-transform: uppercase;
   text-transform: uppercase;
@@ -119,7 +119,7 @@ nav a {
   font-size: 13px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
-  color: #555; 
+  color: #555;
 }
 
 nav a span {
@@ -263,8 +263,8 @@ nav a span {
 }
 
 
-/* 
-  About and project pages styles 
+/*
+  About and project pages styles
 */
 .about-intro-box p,
 .project-info-box p {
@@ -301,8 +301,8 @@ nav a span {
 }
 
 
-/* 
-  Tablet layout styles 
+/*
+  Tablet layout styles
 */
 @media screen and (min-width: 768px) {
   .sidebar h5 {
@@ -341,8 +341,8 @@ nav a span {
 }
 
 
-/* 
-  Desktop layout styles 
+/*
+  Desktop layout styles
 */
 @media screen and (min-width: 1024px) {
   .sidebar {
