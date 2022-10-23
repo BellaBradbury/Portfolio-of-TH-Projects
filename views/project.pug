@@ -1,6 +1,6 @@
 extends layout.pug
 
-block content
+  block content
 
   nav.nav
     a(href='/')
@@ -11,12 +11,8 @@ block content
     .inner-wrapper.flex-row-wrap.two-col
       .project-info-box.box
 
-        //- Use the info in your data file and the comments below to complete this template
-
-        //- Use interpolation to dynamically add the project title
         h1 #{project.project_name}
 
-        //- Use interpolation to dynamically add the project description
         p #{project.description}
 
       .project-tech-links-box.box
@@ -28,7 +24,6 @@ block content
           li CSS
           li JavaScript
 
-        //- Add the href values to the links below
         a.btn-link(href=`${project.live_link}`) Live Demo
         a.btn-link(href=`${project.github_link}`) GitHub Repo
 
