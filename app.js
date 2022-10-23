@@ -17,7 +17,7 @@ app.get( '/about', (req, res) => {
 });
 app.get( '/project/:id', (req, res) => {
   const index = req.params.id;
-  res.render( 'project', { projects: data.project[index] } );
+  res.render( 'project', { project: data.projects[index] } );
 });
 
 // ERROR HANDLING

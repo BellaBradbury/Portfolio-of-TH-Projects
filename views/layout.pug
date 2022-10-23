@@ -6,18 +6,19 @@ html(lang="en" dir="ltr")
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     title Portfolio Site
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
-    link (href="https://fonts.googleapis.com", rel="preconnect")
-    link (href="https://fonts.gstatic.com", rel="preconnect", crossorigin)
-    link (href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap", rel="stylesheet")
+    link(href="https://fonts.googleapis.com", rel="preconnect")
+    link(href="https://fonts.gstatic.com", rel="preconnect", crossorigin)
+    link(href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap", rel="stylesheet")
     link(rel='stylesheet', href='/static/css/normalize.css')
     link(rel='stylesheet', href='/static/css/styles.css')
+    link(rel="icon" type="image/x-icon" href="/static/imgs/Bella-PFP.png")
 
   body
     #my-info.sidebar
       .sidebar-info-box
         br
         .thumbnail-box
-          img.thumbnail(src='./static/imgs/Bella-PFP.png', alt='A white, brown haired woman in a red dress in front of a blurred park background.')
+          img.thumbnail(src='/static/imgs/Bella-PFP.png', alt='A white, brown haired woman in a red dress in front of a blurred park background.')
         .dev-intro-box
 
           h5 Bella Bradbury
