@@ -24,9 +24,9 @@ Submitted
   - Handle errors
   - Set up a server to serve the project
 
-  -STYLE CHAGES-
-  - Courier Prime font added for H5 name element.
-  - .cell img box-shadow changed to be more noticeable.
-  - .sidebar background-color changed to darkblue.
-  - .sidebar p & .sidebar a color changed to comply with accessibility.
-  - .header background-color changed to darkblue for consistency.
+-STYLE CHAGES-
+- Courier Prime font added for H5 name element.
+- .cell img box-shadow changed to be more noticeable.
+- .sidebar background-color changed to darkblue.
+- .sidebar p & .sidebar a color changed to comply with accessibility.
+- .header background-color changed to darkblue for consistency.
