@@ -17,18 +17,14 @@ block content
       .project-tech-links-box.box
         h6 Technologies
         ul
-
-          //- Use an `each` iterator and interpolation to dynamically replace the li tags below with the technologies listed for this project
-          li HTML
-          li CSS
-          li JavaScript
+          each tech in project.technologies
+            li #{tech}
 
         a.btn-link(href=`${project.live_link}`) Live Demo
         a.btn-link(href=`${project.github_link}`) GitHub Repo
 
     .project-img-box.box
 
-      //- Replace the URLs in the src attributes below with interpolated template literals to dynamically add your project images, and add descriptions to the alt attributes
       img.project-img(src=`${project.image_urls.main}`, alt=`Thumbnail of the landing page of my ${project.project_name} site.`)
       img.project-img(src=`${project.image_urls.secondary}`, alt=`Banner of the functionality of my ${project.project_name} site.`)
 
