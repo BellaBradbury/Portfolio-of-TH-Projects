@@ -19,6 +19,12 @@ app.get( '/project/:id', (req, res) => {
   const index = req.params.id;
   res.render( 'project', { project: data.projects[index] } );
 });
+app.get('/page-not-found', (req, res) => {
+  res.render('page-not-found');
+});
+app.get('/error', (req, res) => {
+  res.render('error');
+});
 
 // ERROR HANDLING
 app.use( (req, res, next) => {
@@ -26,6 +32,7 @@ app.use( (req, res, next) => {
   err.status = 404;
   err.message = "Whoops! The page you're looking for doesn't exist.";
   console.log(err.status, err.message);
+  res.redirect("/page-not-found");
   next(err);
 });
 app.use( (err, req, res, next) => {
@@ -33,9 +40,9 @@ app.use( (err, req, res, next) => {
     err.status = 500;
     err.message = "Something has gone wrong, please try again!";
     console.log(err.status, err.message);
+    res.redirect('/error');
   }
 });
-
 
 // STARTS SERVER
 app.listen(3000, () => {
