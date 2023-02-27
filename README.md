@@ -1,7 +1,9 @@
 # Develop A Node Static Site
 Team Treehouse - Web Development TechDegree - Project 9
-
-Submitted 10/26/22 *EXCEEDS EXPECTATIONS*
+  - Submitted 10/26/22 ***EXCEEDS EXPECTATIONS***
+  
+Team Treehouse - Full Stack JavaScript TechDegree - Project 6
+  - Submitted 1/20/23 ***EXCEEDS EXPECTATIONS***
 
 -SKILLS USED-
 
