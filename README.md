@@ -28,7 +28,7 @@ Team Treehouse - Web Development TechDegree - Project 9
   - Handle errors
   - Set up a server to serve the project
 
--STYLE CHAGES-
+-STYLE CHANGES-
 - Courier Prime font added for H5 name element.
 - .cell img box-shadow changed to be more noticeable.
 - .sidebar background-color changed to darkblue.
